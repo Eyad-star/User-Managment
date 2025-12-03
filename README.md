@@ -59,7 +59,7 @@ Designing data structures and program flow
 
 Debugging and problem-solving
 
-Using Git & GitHub professionally
+Using Git & GitHub
 
 
 📊 Project Statistics
@@ -97,7 +97,7 @@ Planned enhancements:
 This project reflects my programming philosophy:
 “Great software is built by breaking complex problems into small, organized, and maintainable components.”
 
-It showcases my ability to design structured C++ applications using clean architecture and strong fundamentals.
-ترجم 
+
+
 
 
